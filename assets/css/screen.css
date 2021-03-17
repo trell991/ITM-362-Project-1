@@ -3,8 +3,17 @@
 
 html {
   font-family: "Roboto Condensed" , Arial , Georgia , sans-serif , Times;
-  font-size: 1.25em; 
+  font-size: 1.25em;
   padding: 1em;
 
   background-color: #E6E6FA;
+}
+
+h1 {
+  font-size: 100%
+}
+
+
+h2 {
+    font-size: 90%;
 }
