@@ -9,6 +9,13 @@ html {
   background-color: #E6E6FA;
 }
 
+#content {
+  padding-left: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-color: transparent;
+  background-color: #F0E0E1;
+}
 h1 {
   padding-bottom: .5em;
 }

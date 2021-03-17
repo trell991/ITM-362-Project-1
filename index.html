@@ -7,6 +7,7 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="assets/css/resets.css" />
     <link rel="stylesheet" href="assets/css/screen.css" />
+  
 
 
   </head>
@@ -15,6 +16,7 @@
         <main id ="content">
           <h1>Sign up now to get a beta key for GTA-6!</h1>
           <h2>Fill out this imformation below:</h2>
+          <div id="error"></div>
           <form id="form-a" method="get" autocomplete="on" action="#null" onsubmit= "return validationEvent()">
               <label>
             First name:
@@ -26,6 +28,10 @@
               </label>
               <label>
             Email: <input id = "Email" type = "text" name = "Email" />
+              </label>
+              <label>
+                <button type="submit">Submit</button>
+                </button>
          </form>
       </body>
 
