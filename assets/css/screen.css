@@ -17,3 +17,11 @@ h1 {
 h2 {
     font-size: 90%;
 }
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 20px;
+}
