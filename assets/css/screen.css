@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,400;0,700;1,400&display=swap");
+@import url("#//basehold.it/25");
+
+html {
+  font-family: "Roboto Condensed" , Arial , Georgia , sans-serif , Times;
+  font-size: 1.25em;
+  padding: 1em;
+
+  background-color: #E6E6FA;
+}
+
+#content {
+  padding-left: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-color: transparent;
+  background-color: #F0E0E1;
+}
+h1 {
+  padding-bottom: .5em;
+}
+
+h2 {
+  padding-bottom: .5em;
+}
+
+h1 {
+  font-size: 100%
+}
+
+
+h2 {
+    font-size: 90%;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 20px;
+}
