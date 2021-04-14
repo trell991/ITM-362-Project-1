@@ -35,6 +35,9 @@ h2 {
     font-size: 90%;
 }
 
+p {
+  font-size 70%
+}
 label, input {
     display: block;
 }
