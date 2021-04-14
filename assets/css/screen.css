@@ -45,6 +45,12 @@ label {
 
 @media (min-width: 600px) {
   html{
-    
+
+  }
+}
+
+@media (min-width: 800px) {
+  html{
+
   }
 }
